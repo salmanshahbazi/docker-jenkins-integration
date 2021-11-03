@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM base-img:latest
 MAINTAINER salman_shahbazi
 USER    root
 EXPOSE 8080
