@@ -1,4 +1,4 @@
-FROM base-img:latest
+FROM base-image:latest
 MAINTAINER salman_shahbazi
 USER    root
 EXPOSE 8080
